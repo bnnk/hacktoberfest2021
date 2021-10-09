@@ -1,5 +1,3 @@
-RABIN KARP ALGORITHM CODE
-
 d = 256
 def search(pat, txt, q):
     M = len(pat)
